@@ -92,7 +92,7 @@ function Update () {
 				if(auxPenetration>0){
 					var aux = new Vector2(myLocation.x,myLocation.y);
 					aux.x += shotgunDistance/2;
-					Debug.Log(myLocation + " / " + aux);
+					//Debug.Log(myLocation + " / " + aux);
 					enemiesInRange = getEnemiesWithDistance(enemies,shotgunDistance/2,aux);
 					count = 0;
 					//Al mismo tiempo que resto al penetration aplico daño a todos los zombies
