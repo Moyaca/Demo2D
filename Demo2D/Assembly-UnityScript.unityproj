@@ -47,6 +47,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\EnemyAttac.js" />
+     <Compile Include="Assets\Scripts\Globals\GameControl.js" />
+     <Compile Include="Assets\Scripts\Globals\GlobalObjectManager.js" />
+     <Compile Include="Assets\Scripts\Globals\HomeControlCenter.js" />
+     <Compile Include="Assets\Scripts\Globals\SceneControlCenter.js" />
      <Compile Include="Assets\Scripts\Healt.js" />
      <Compile Include="Assets\Scripts\Move.js" />
      <Compile Include="Assets\Scripts\Shoot.js" />

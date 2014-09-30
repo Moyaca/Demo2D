@@ -46,8 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Globals\GameControl.cs" />
-     <Compile Include="Assets\Scripts\Globals\GlobalObjectManager.cs" />
      <Compile Include="Assets\Scripts\Globals\HomeControlCenter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
