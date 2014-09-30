@@ -1,12 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Shoot2.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Globals/SceneControlCenter.js">
     <Files>
-      <File FileName="Assets\Script\Shoot.js" Line="87" Column="45" />
-      <File FileName="Assets\Script\Move.js" Line="2" Column="21" />
-      <File FileName="Assets\Script\EnemyAttac.js" Line="19" Column="2" />
-      <File FileName="Assets\Script\Spawner.js" Line="34" Column="73" />
-      <File FileName="Assets\Script\Shoot2.js" Line="71" Column="50" />
+      <File FileName="Assets/Scripts/Globals/GameControl.js" Line="25" Column="36" />
+      <File FileName="Assets/Scripts/Globals/HomeControlCenter.js" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/Globals/SceneControlCenter.js" Line="8" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
