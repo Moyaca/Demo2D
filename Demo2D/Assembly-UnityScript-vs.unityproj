@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Move.js" />
      <Compile Include="Assets\Scripts\Shoot.js" />
      <Compile Include="Assets\Scripts\Shoot2.js" />
+     <Compile Include="Assets\Scripts\ShootEnemy.js" />
      <Compile Include="Assets\Scripts\Spawner.js" />
      <Compile Include="Assets\Scripts\SwapWeapon.js" />
   </ItemGroup>

@@ -30,7 +30,11 @@ function Start () {
 }
 
 function Update () {
-	if(Input.GetButtonUp("Fire1")){
+
+}
+
+//SHOOT
+function Shoot(){
 		//Tomo todos los enemigos
 		var enemies = GameObject.FindGameObjectsWithTag("Enemy");
 		//Los ordeno
@@ -109,8 +113,8 @@ function Update () {
 			Debug.Log("Miss?");
 		 	break;
 		}
-	}
 }
+
 //Toma a los enemigos que se encuentren a una distancia x, por defecto del jugador 
 function getEnemiesWithDistance (enemies:GameObject[], distance:int) : Array{
 	var enemiesInRange = new Array();
